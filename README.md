@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar
-- 👀 I’m interested in develop new applications
-- 🌱 I’m currently learning node js to make restAPIs for my applications
+- 👀 I’m interested in developing new things.
+- 🌱 I’m currently working as a software developer in an LMS company.
 - 📫 You can reach to me by email: rohitq50@gmail.com and Mobile: +919557845833
 
 <!---
