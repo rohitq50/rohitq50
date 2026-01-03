@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in developing new things.
-- 🌱 I’m currently working as a software developer in an LMS company.
+- 🌱 I’m currently working as a software developer in an OTA company.
 - 📫 You can reach to me by email: rohitq50@gmail.com and Mobile: +919557845833
 
 <!---
